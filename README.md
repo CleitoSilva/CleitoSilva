@@ -4,6 +4,9 @@
 ### I'am Cleiton Ferreira 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.comCleitinho363)
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+
 
 ![Cleito GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula)
 
