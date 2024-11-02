@@ -7,7 +7,7 @@
 
 ![Cleito GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula)
 
-##   Technolies
+##   Technologies
 
 <div style="display : inline_block"><br/>
 
