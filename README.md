@@ -8,8 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-ferreira-da-silva-987b93311/)
 
 
-![Cleito GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitoSilva&layout=compact&cache_seconds=60)
+## 📊 GitHub Stats
+
+![Cleito GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitoSilva&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400)
 
 ##   Technologies
 
