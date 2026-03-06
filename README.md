@@ -9,10 +9,14 @@
 
 
 ## 📈 GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CleitoSilva&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CleitoSilva&theme=github-dark&hide_border=true)
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=CleitoSilva&color=blue&style=for-the-badge)
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=CleitoSilva&theme=dark&hide_border=true)
+
+---
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=CleitoSilva&color=blue&style=for-the-badge)
