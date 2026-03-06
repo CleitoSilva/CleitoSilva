@@ -9,10 +9,10 @@
 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula"/>
 
 ## 💻 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitoSilva&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CleitoSilva&layout=compact&theme=dracula"/>
 
 ##   Technologies
 
