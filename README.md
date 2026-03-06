@@ -8,11 +8,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-ferreira-da-silva-987b93311/)
 
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CleitoSilva&show_icons=true&theme=dracula"/>
+## 📊 GitHub Activity Graph
+[![Cleiton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CleitoSilva&theme=dracula)](https://github.com/CleitoSilva)
 
-## 💻 Top Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CleitoSilva&layout=compact&theme=dracula"/>
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=CleitoSilva&theme=dracula)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=CleitoSilva&color=blue&style=for-the-badge)
 
 ##   Technologies
 
