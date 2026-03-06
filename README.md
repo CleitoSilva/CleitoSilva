@@ -9,8 +9,8 @@
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleitoSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitoSilva&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CleitoSilva&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CleitoSilva&theme=github_dark" />
 </p>
 
 ##   Technologies
